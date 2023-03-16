@@ -1,2 +1,2 @@
 # Fundraising-Donation-Organisation-
-New fund collection and distribution among needy people.
+Fund collection and distribution among needy people. It's a new idea that full-fill a little needs among poor and a uncommon project concept.
